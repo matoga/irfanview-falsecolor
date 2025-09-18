@@ -4,7 +4,7 @@ External editor for colorizing OD images in IrfanView.
 
 ## How to install
 
-1. Download and unpack zip.
+1. Download and unpack zip: https://github.com/matoga/irfanview-falsecolor/releases/download/v1.0/colorize_od.zip
 2. Go to Options -> Properties/Settings -> Miscellaneous and set external editors. Choose 1. and put:
    ```
    C:\path\to\the\file\colorize_od.exe "$F"
